@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sablon
+{
+	width: 1070px;
+	height: 770px;
+	margin:30px auto;
+}
+
+.logo
+{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	background-image:url(resimler/logo.jpg);
+}
+
+.tanıtım
+{
+	width: 890px;
+	height: 90px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background: #003466;
+	border-radius: 10px;
+	color: #FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 60px;
+	
+	
+}
+
+.anamenu
+{
+	width: 1050px;
+	height: 66px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: #00468c;
+	color: #FFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	font-weight: bold;
+}
+
+.anamenu ul 
+{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+.anamenu ul li
+{
+	float:left;
+}
+
+.anamenu ul li a
+{
+	display:block;
+	width:200px;
+	height:45px;
+	text-align:center;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	color:#FFF;
+	padding-top:20px;
+	margin-left:45px;
+}
+
+.anamenu ul li a:hover
+{
+	text-decoration:underline;
+	background:#06f;
+	
+}
+
+.medya
+{
+	width:180px;
+	height:66px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.ortaalan
+{
+	width:1050px;
+	height:280px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+	padding-left:10px;
+	background:#bfeefe;
+	font-weight:bold;
+	font-size:16px;
+}
+
+.altalan1
+{
+	width:1050px;
+	height:150px;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+	background:#bfeefe;
+}
+
+.altalan2
+{
+	width:343px;
+	height:150px;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+	background:#99cdff;
+}
+
+.altalan3
+{
+	width:343px;
+	height:150px;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+	margin-right:10px;
+	background:#bedffe;
+}
+
+.altkısım
+{
+	width: 850px;
+	height: 40px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	background: #bfeefe;
+	border-radius: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-style: italic;
+	
+}
